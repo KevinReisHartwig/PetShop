@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img alt="Imagem PetShop" src="./images/Capturar.png" width="100%">
+  <img alt="Imagem PetShop" src="/images/Capturar.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
