@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img alt="Imagem Suplementos" src="./images/Captura.png" width="100%">
+  <img alt="Imagem PetShop" src="/images/Captura.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
